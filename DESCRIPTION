@@ -1,0 +1,10 @@
+Package: hello
+Title: Hello World
+Version: 0.0.9
+Authors@R: person("James", "Eapen", email = "james.eapen@vai.org", role = c("aut", "cre"), comment = c(ORCID = "0000-0001-6016-3598"))
+Description: Hello World.
+License: MIT + file LICENSE
+URL: https://github.com/jamespeapen/rbuild
+Depends: R (>= 3.4)
+Author: James Eapen [aut, cre]
+RoxygenNote: 7.2.3

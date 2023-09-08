@@ -1,0 +1,5 @@
+default.nix
+.envrc
+.direnv
+^LICENSE\.md$
+^\.github$
